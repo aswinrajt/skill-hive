@@ -1,0 +1,50 @@
+.landing-page .hero-section {
+    background: url('/path/to/background.jpg') no-repeat center center;
+    background-size: cover;
+    min-height: 80vh;
+    color: #fff;
+  }
+  
+  .hero-section h1 {
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .hero-section p {
+    font-size: 1.25rem;
+    margin-bottom: 30px;
+  }
+  
+  .about-section {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+  }
+  
+  .features-section .feature-card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    transition: transform 0.2s ease;
+  }
+  
+  .features-section .feature-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .testimonials-section {
+    background-color: #e9ecef;
+  }
+  
+  .testimonial-text {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+  }
+  
+  .footer-section {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  .footer-section p {
+    margin: 0;
+  }
+  

@@ -1,0 +1,20 @@
+.teacher-dashboard .feature-card {
+    transition: transform 0.2s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .teacher-dashboard .feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .recent-activity {
+    background-color: #f8f9fa;
+  }
+  
+  .recent-activity .list-group-item {
+    font-size: 0.95rem;
+    border: none;
+    padding: 10px;
+  }
+  

@@ -1,0 +1,24 @@
+.user-event-management .event-card {
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .user-event-management .event-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .user-event-management header h2,
+  .user-event-management section header h3 {
+    font-weight: bold;
+  }
+  
+  .enrolled-event-card {
+    background-color: #e9f7ef;
+  }
+  
+  button.btn-success {
+    font-size: 1rem;
+    padding: 8px 20px;
+  }
+  

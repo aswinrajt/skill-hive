@@ -1,0 +1,28 @@
+.student-dashboard .dashboard-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.student-dashboard .profile-picture {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 3px solid #007bff;
+}
+
+.student-dashboard .placeholder-profile {
+  width: 150px;
+  height: 150px;
+  background-color: #f0f0f0;
+  display: inline-block;
+}
+
+.student-dashboard .intro-card .btn {
+  margin-top: 10px;
+}
+
+.student-dashboard .progress-card {
+  padding: 30px 20px;
+}
